@@ -12,7 +12,6 @@ namespace LinqConsoleApp
         public LinqSamples()
         {
             LoadData();
-            Task7();
         }
 
         public void LoadData()
